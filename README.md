@@ -11,7 +11,7 @@ I'm a Software Engineer, Content Creator, and DevOps Engineer who currently work
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Cloud computing. 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer,  DevOps Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing oluchukwuedeh0@gmail.com.
+- 📫 You can [view my resume](https://zety.com/profile/oluchukwu-edeh), and contact me by emailing oluchukwuedeh0@gmail.com.
 
 ---
 
