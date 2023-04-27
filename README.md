@@ -8,7 +8,7 @@ I'm a Software Engineer, Content Creator, and DevOps Engineer who currently work
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Cloud computing. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Ansible, Docker, Terraform, Kubernetes, Jenkins and Cloud Services. 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer,  DevOps Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://zety.com/profile/oluchukwu-edeh), and contact me by emailing oluchukwuedeh0@gmail.com.
